@@ -8,15 +8,13 @@ Users can create, edit, delete, and view blog posts with authentication.
 
 ### 🔹 **Clone the Repository**
 
-bash
-git clone https://github.com/arhansid78/blog-posts.git
+git clone https://github.com/arhansid78/blog-mern.git
 
-cd blog-post or BlogPost
+cd blog-mern
 
 🖥️ Backend Setup (Node.js + Express + MongoDB)
 
 Navigate to the backend folder:
-
 
 cd BlogPost-Assi
 cd backend
@@ -41,9 +39,9 @@ cd frontend
 
 Install dependencies:
 npm install
+
 Start the frontend:
-
-
 npm start
+
 The frontend will run on:
 🖥️ http://localhost:3000
