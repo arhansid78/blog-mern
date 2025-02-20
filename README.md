@@ -3,11 +3,11 @@
 A **full-stack blogging platform** built with **React, Node.js, Express, and MongoDB**.  
 Users can create, edit, delete, and view blog posts with authentication.
 
-
+---
 ## 📦 Installation & Setup
 
 ### 🔹 **Clone the Repository**
-``bash
+```bash
 git clone https://github.com/arhansid78/blog-mern.git
 
 cd blog-mern
@@ -44,4 +44,5 @@ Start the frontend:
 npm start
 
 The frontend will run on:
-🖥️ http://localhost:3000 
+🖥️ http://localhost:3000
+```bash
