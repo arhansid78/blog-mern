@@ -8,7 +8,6 @@ const postSchema = new mongoose.Schema({
     ref: "User",
     required: [true, "User ID is required"], // Links post to a user
   },
-
   title: {
     type: String,
     required: [true, "Title is required"],
